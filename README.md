@@ -1,8 +1,8 @@
 # 📱 Comparador de Celulares - Apple vs Samsung 2025
 
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
-[![Python](https://img.shields.io/badge/Python-3.8+-3776AB? style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-MIT-green. svg? style=for-the-badge)](LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![License](https://img.shields.io/badge/License-MIT-green. svg?style=for-the-badge)](LICENSE)
 
 > **Aplicação web interativa para comparar especificações, preços e custo-benefício de celulares Apple e Samsung de 2025.**
 
@@ -32,7 +32,7 @@ O **Comparador de Celulares** é uma aplicação web desenvolvida com **Streamli
 
 ### 💡 Motivação
 
-Com tantos modelos no mercado, escolher o celular ideal pode ser desafiador. Este projeto foi criado para: 
+Com tantos modelos no mercado, escolher o celular ideal pode ser desafiador.  Este projeto foi criado para: 
 
 - ✅ Facilitar a comparação entre diferentes modelos
 - ✅ Calcular automaticamente o custo-benefício
@@ -79,7 +79,7 @@ streamlit run comparador_celulares.py
 - Preços atualizados para 2025
 
 ### 🥇 Melhores Specs
-- **Maior RAM**:  Qual celular tem mais memória
+- **Maior RAM**: Qual celular tem mais memória
 - **Maior Armazenamento**:  Maior capacidade de dados
 - **Melhor Bateria**: Maior duração
 - **Melhor Câmera**: Mais megapixels
@@ -119,7 +119,7 @@ streamlit>=1.28.0
 1. **Clone o repositório**
 
 ```bash
-git clone https://github.com/bimadevfullComparador/Apple-vs-Samsung-2025.git
+git clone https://github.com/bimadevfull/Apple-vs-Samsung-2025.git
 cd Apple-vs-Samsung-2025
 ```
 
@@ -144,7 +144,7 @@ pip install streamlit
 4. **Execute a aplicação**
 
 ```bash
-streamlit run comparador_celulares. py
+streamlit run comparador_celulares.py
 ```
 
 5. **Abra no navegador**
@@ -187,10 +187,10 @@ Apple-vs-Samsung-2025/
 │
 ├── comparador_celulares.py    # Código principal (Streamlit)
 ├── README.md                   # Documentação (este arquivo)
-├── requirements.txt            # Dependências
+├── requirements. txt            # Dependências
 ├── LICENSE                     # Licença MIT
 │
-├── . gitignore                  # Arquivos ignorados pelo Git
+├── .gitignore                  # Arquivos ignorados pelo Git
 └── assets/                     # Imagens e recursos
     └── screenshots/            # Capturas de tela
 ```
@@ -301,21 +301,21 @@ Este projeto está sob a licença **MIT**. Veja o arquivo [LICENSE](LICENSE) par
 ```
 MIT License
 
-Copyright (c) 2025 bimadevfullComparador
+Copyright (c) 2025 Abimael de Menezes Pedro
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions: 
+furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.  IN NO EVENT SHALL THE
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
@@ -326,17 +326,18 @@ SOFTWARE.
 
 ## 👤 Contato
 
-**bimadevfullComparador**
+**Abimael de Menezes Pedro**
 
-- 🐙 GitHub: [@bimadevfullComparador](https://github.com/bimadevfullComparador)
-- 📧 Email: contato@exemplo.com
-- 💼 LinkedIn: [seu-perfil](https://linkedin.com/in/seu-perfil)
+- 🌐 Website: [abimaeldev.eng.br](https://www.abimaeldev.eng.br/)
+- 📧 Email: [abimaeldevfull.stack@gmail.com](mailto:abimaeldevfull.stack@gmail.com)
+- 💼 LinkedIn:  [bimadevfull](https://www.linkedin.com/in/bimadevfull/)
+- 🐙 GitHub: [@bimadevfull](https://github.com/bimadevfull)
 
 ---
 
 ## 🎓 Aprendizados
 
-Este projeto foi desenvolvido para demonstrar:
+Este projeto foi desenvolvido para demonstrar: 
 
 - ✅ Programação Orientada a Objetos em Python
 - ✅ Desenvolvimento de interfaces com Streamlit
@@ -364,7 +365,7 @@ Este projeto foi desenvolvido para demonstrar:
 
 Se este projeto foi útil para você, considere dar uma ⭐! 
 
-[![Star](https://img.shields.io/github/stars/bimadevfullComparador/Apple-vs-Samsung-2025?style=social)](https://github.com/bimadevfullComparador/Apple-vs-Samsung-2025)
+[![Star](https://img.shields.io/github/stars/bimadevfull/Apple-vs-Samsung-2025?style=social)](https://github.com/bimadevfull/Apple-vs-Samsung-2025)
 
 ---
 
@@ -378,7 +379,11 @@ Se este projeto foi útil para você, considere dar uma ⭐!
 
 <div align="center">
 
-**Feito com ❤️ e Python**
+**Feito com ❤️ e Python por Abimael de Menezes Pedro**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-abimaeldev.eng.br-667eea?style=for-the-badge)](https://www.abimaeldev.eng.br/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-bimadevfull-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bimadevfull/)
+[![GitHub](https://img.shields.io/badge/GitHub-bimadevfull-181717?style=for-the-badge&logo=github)](https://github.com/bimadevfull)
 
 [⬆ Voltar ao topo](#-comparador-de-celulares---apple-vs-samsung-2025)
 
