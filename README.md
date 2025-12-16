@@ -2,7 +2,6 @@
 
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-MIT-green. svg?style=for-the-badge)](LICENSE)
 
 > **Aplicação web interativa para comparar especificações, preços e custo-benefício de celulares Apple e Samsung de 2025.**
 
